@@ -135,7 +135,7 @@ section {
   width: 100%;
   min-height: 100vh;
   background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
- url('../Img/grupo') center/cover no-repeat;
+ url('../Img/grupo.jpg') center/cover no-repeat;
   width: 100%;
   color: #fff;
   padding: 20px;
@@ -242,10 +242,8 @@ section {
 }
 
 .servicios{
- background-image: url("../Img/imagen22.jpg");
- background-position: center;
- background-repeat: no-repeat;
- background-size: cover;
+ background:pink;
+height: auto;
   text-align: center;
   padding: 80px 20px;
   display: flex;
