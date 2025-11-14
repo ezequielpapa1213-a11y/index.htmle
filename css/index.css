@@ -135,7 +135,7 @@ section {
   width: 100%;
   min-height: 100vh;
   background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
- url('../Img/imagen22.jpg') center/cover no-repeat;
+ url('../Img/imagen222.jpg') center/cover no-repeat;
   width: 100%;
   color: #fff;
   padding: 20px;
@@ -239,7 +239,10 @@ section {
 }
 
 .servicios{
-  background: radial-gradient(circle, #ffeafa, #ffffff);
+ background-image: url("../Img/imagen22.jpg");
+ background-repeat: no-repeat;
+ background-position: center;
+ background-size: cover;
   text-align: center;
   padding: 80px 20px;
   display: flex;
@@ -1887,5 +1890,3 @@ h1{
     max-width: 150px;
   }
 } bore todo los header
-
-
