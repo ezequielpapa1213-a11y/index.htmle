@@ -242,8 +242,7 @@ section {
 }
 
 .servicios{
- background:pink;
-height: auto;
+ background: pink;
   text-align: center;
   padding: 80px 20px;
   display: flex;
@@ -1318,10 +1317,9 @@ section {
   justify-content: center;
   align-items: center;
   text-align: justify;
-  height: auto;
+  height: 100px;
 }
 .texto{
-  height: auto;
   width: 60%;
   padding: 1rem;
 }
@@ -1631,13 +1629,13 @@ left: 700px;
 }
 
 .texto h4 {
-  font-size: 3rem;
+  font-size: 24px;
   font-weight: 700;
   color: #333;
 }
 
 .texto p {
-  font-size: 2rem;
+  font-size: 18px;
   color: #555;
   line-height: 1.5;
 }
