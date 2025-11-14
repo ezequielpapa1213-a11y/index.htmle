@@ -235,7 +235,6 @@ section {
   transform: scale(1.05);
   border-color: #f7b5d1;
 }
-
 .producto img {
   width: 100%;
   border-radius: 10px;
@@ -243,8 +242,10 @@ section {
 }
 
 .servicios{
- background-image: ur;
-
+ background-image: url('../Img/imagen22.jpg');
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
   text-align: center;
   padding: 80px 20px;
   display: flex;
@@ -1314,12 +1315,15 @@ section {
 
 }
 .contenedor{
+  width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
   text-align: justify;
+  height: auto;
 }
 .texto{
+  height: auto;
   width: 60%;
   padding: 1rem;
 }
@@ -1629,13 +1633,13 @@ left: 700px;
 }
 
 .texto h4 {
-  font-size: 24px;
+  font-size: 3rem;
   font-weight: 700;
   color: #333;
 }
 
 .texto p {
-  font-size: 18px;
+  font-size: 2rem;
   color: #555;
   line-height: 1.5;
 }
