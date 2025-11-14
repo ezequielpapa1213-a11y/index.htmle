@@ -135,7 +135,7 @@ section {
   width: 100%;
   min-height: 100vh;
   background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
- url('../Img/') center/cover no-repeat;
+ url('../Img/imagen22.jpg') center/cover no-repeat;
   width: 100%;
   color: #fff;
   padding: 20px;
@@ -1887,3 +1887,4 @@ h1{
     max-width: 150px;
   }
 } bore todo los header
+
