@@ -242,7 +242,7 @@ section {
 }
 
 .servicios{
- background-image: url('../Img/imagen22.jpg');
+ background-image: url("../Img/imagen22.jpg");
  background-position: center;
  background-repeat: no-repeat;
  background-size: cover;
@@ -1896,4 +1896,3 @@ h1{
     max-width: 150px;
   }
 } bore todo los header
-
