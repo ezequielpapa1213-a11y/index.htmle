@@ -239,7 +239,7 @@ section {
 }
 
 .servicios{
-  background-image: radial-gradient(circle at 15% 20%, #ffffff 0%, #fff5f9 20%, #ffdcef 50% ,  #ffcbe6  100%);
+  background: radial-gradient(circle, #ffeafa, #ffffff);
   text-align: center;
   padding: 80px 20px;
   display: flex;
@@ -1887,4 +1887,5 @@ h1{
     max-width: 150px;
   }
 } bore todo los header
+
 
